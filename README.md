@@ -1,5 +1,5 @@
 # ProxyExtraSlot
-ProxyExtraSlot is a WaterdogPE Plugin to adjust the Proxy Maximum playercount to playercount.
+ProxyExtraSlot is a WaterdogPE Plugin to adjust the Proxy Maximum playercount to <b>playercount + 1 for exmaple 22/23</b>.
 
 In the Config you can change how many extra slots should be added to the max. playercount:
 
